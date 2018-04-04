@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 4, 2018
 
 ### Student Name:  
-(First and Last Name)
+Diego Leon
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I learned how to use the functions within the JQuery library to add some animations to my web application. 
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
