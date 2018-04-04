@@ -13,11 +13,10 @@ Diego Leon
 I learned how to use the functions within the JQuery library to add some animations to my web application. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/dl15/lesson7_jquery
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using the Jquery library
+2. Adding animations to an element 
+3. How to link a script file to an html file
 
